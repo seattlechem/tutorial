@@ -25,4 +25,3 @@ class Snippet(models.Model):
         """Extra class."""
 
         ordering = ('created',)
-        
